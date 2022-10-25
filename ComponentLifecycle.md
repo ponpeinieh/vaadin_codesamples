@@ -52,7 +52,7 @@
     }
     ```
 
-    - Using methods available in attachEvent and detachEvent to get the UI or session is more convenient than using the getUI() method in Component, because these methods return values directly. 
+    - **Using methods available in attachEvent and detachEvent to get the UI or session is more convenient than using the getUI()** method in Component, because these methods return values directly. 
         - The getUI() method returns an Optional<UI>, because a component isn’t always attached.
     - The default implementations of the onAttach() and onDetach() methods are empty, so you don’t need to call super.onAttach() or super.onDetach() from your overridden methods. 
         - However, when extending other component implementations, you may need to do this.

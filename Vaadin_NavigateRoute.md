@@ -29,7 +29,7 @@
     - Interacting directly with the Target View
         - The navigate() method where you give the **target view class as a parameter returns the actual target view as Optional.** This allows you to **further configure the new view with its Java API.**
             - The return value may be empty if the target view isn’t immediately available for some reason. This may happen, for example, because of security constraints or if the navigation was canceled or postponed in a navigation lifecycle events.
-            - Example: Creating an edit button that navigates to a separate view and assigns the DTO to the target view with its Java API:
+            - Example: Creating an edit button that navigates to a separate view and **assigns the DTO to the target view with its Java API**:
 
             ```
             new Button("Edit " + user.getName(), event -> {

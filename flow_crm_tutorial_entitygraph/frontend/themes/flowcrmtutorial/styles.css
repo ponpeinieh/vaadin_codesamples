@@ -1,0 +1,17 @@
+@import url('line-awesome/dist/line-awesome/css/line-awesome.min.css');
+
+@media all and (max-width: 1100px) {
+  .list-view.editing .toolbar,
+  .list-view.editing .contact-grid {
+    display: none;
+  }
+}
+
+a[highlight] {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.drawer img {
+    width: 2.5em;
+}
