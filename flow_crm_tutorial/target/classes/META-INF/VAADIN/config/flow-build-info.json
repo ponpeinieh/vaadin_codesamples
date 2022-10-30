@@ -1,0 +1,18 @@
+{
+  "productionMode": false,
+  "useDeprecatedV14Bootstrapping": false,
+  "eagerServerLoad": false,
+  "npmFolder": "C:\\Users\\Darthur\\projects\\git\\vaadin_codesamples\\flow_crm_tutorial",
+  "node.version": "v16.17.1",
+  "node.download.root": "https://nodejs.org/dist/",
+  "generatedFolder": "C:\\Users\\Darthur\\projects\\git\\vaadin_codesamples\\flow_crm_tutorial\\target\\frontend",
+  "frontendFolder": "C:\\Users\\Darthur\\projects\\git\\vaadin_codesamples\\flow_crm_tutorial\\frontend",
+  "connect.javaSourceFolder": "C:\\Users\\Darthur\\projects\\git\\vaadin_codesamples\\flow_crm_tutorial\\src\\main\\java",
+  "javaResourceFolder": "C:\\Users\\Darthur\\projects\\git\\vaadin_codesamples\\flow_crm_tutorial\\src\\main\\resources",
+  "connect.applicationProperties": "C:\\Users\\Darthur\\projects\\git\\vaadin_codesamples\\flow_crm_tutorial\\src\\main\\resources\\application.properties",
+  "connect.openApiFile": "C:\\Users\\Darthur\\projects\\git\\vaadin_codesamples\\flow_crm_tutorial\\target\\generated-resources\\openapi.json",
+  "project.frontend.generated": "C:\\Users\\Darthur\\projects\\git\\vaadin_codesamples\\flow_crm_tutorial\\frontend\\generated",
+  "pnpm.enable": false,
+  "require.home.node": false,
+  "build.folder": "target"
+}
